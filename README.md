@@ -20,3 +20,11 @@ this problem.
 
 Please submit a PULL request to the DWF library project to add or edit
 existing content.
+
+## Categories
+
+We'll try to keep things arranged in categories. Feel free to add new
+categories (one per file as needed).
+
+[Papers](papers.md)
+[Videos](videos.md)
