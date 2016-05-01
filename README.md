@@ -26,5 +26,5 @@ existing content.
 We'll try to keep things arranged in categories. Feel free to add new
 categories (one per file as needed).
 
-[Papers](papers.md)
-[Videos](videos.md)
+- [Papers](papers.md)
+- [Videos](videos.md)
