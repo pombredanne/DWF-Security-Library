@@ -28,3 +28,4 @@ categories (one per file as needed).
 
 - [Papers](papers.md)
 - [Videos](videos.md)
+- [Useful Information](info.md)
